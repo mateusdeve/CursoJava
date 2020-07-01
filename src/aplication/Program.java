@@ -57,7 +57,7 @@ public class Program {
 		}
 		
 		System.out.println(list);
-		
+		System.out.println();
 		
 		sc.close();
 	}
